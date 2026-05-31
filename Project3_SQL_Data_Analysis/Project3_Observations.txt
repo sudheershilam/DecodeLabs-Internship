@@ -1,0 +1,19 @@
+OBS001 - The dataset contains 1200 order records.
+
+OBS002 - SQL queries were used to retrieve, filter, sort, and summarize data.
+
+OBS003 - Different products have varying order volumes.
+
+OBS004 - Revenue generated differs across product categories.
+
+OBS005 - Customer payment methods are distributed across multiple options.
+
+OBS006 - Referral sources contribute differently to total orders.
+
+OBS007 - High-value orders significantly impact overall revenue.
+
+OBS008 - SQL aggregation functions help transform raw data into meaningful business insights.
+
+OBS009 - ORDER BY helps identify top-performing records quickly.
+
+OBS010 - GROUP BY enables category-wise analysis for business reporting.
